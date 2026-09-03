@@ -2,8 +2,6 @@
 
 Tutorial for the spatial transcriptomics module demonstrated at the NCBS Summer School 2026
 
-Find the resources at: https://drive.google.com/drive/folders/1dPpr6Onm3BugcON1UaXoqKqbrDbZYL2h?usp=drive_link
-
 Seurat vignette used for demo: https://satijalab.org/seurat/articles/visiumhd_analysis_cell_segmentations
 
 Kidney Dataset used for demo: https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-human-kidney-ffpe-v4
@@ -30,4 +28,8 @@ Additional reading resources:
 - Grases D, Porta-Pardo E, “A practical guide to spatial transcriptomics: lessons from over 1000 samples”, Trends in Biotechnology, 2025; 44, 1230-1242 (Best practices)
 - Liu, Yunhe, et al. "Spatial Omics at the Forefront: Emerging Technologies, Analytical Innovations, and Clinical Applications." Cancer Cell, vol. 44, no. 1, 2026, pp. 24-49, https://doi.org/10.1016/j.ccell.2025.12.009. (Comprehensive review of spatial technologies)
 
+---
 
+Find the additional resources* at: https://drive.google.com/drive/folders/1dPpr6Onm3BugcON1UaXoqKqbrDbZYL2h?usp=drive_link
+
+*Accessible only to the participants during the workshop. So download it if you would like to use it in the future.*
