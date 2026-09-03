@@ -1,6 +1,6 @@
-# spatial-transcriptomics-tutorial
+# Tutorial for the spatial transcriptomics module 
 
-Tutorial for the spatial transcriptomics module demonstrated at the NCBS Summer School 2026
+Demonstrated at the NCBS Summer School 2026 | Genomics India Conference 2026
 
 Seurat vignette used for demo: https://satijalab.org/seurat/articles/visiumhd_analysis_cell_segmentations
 
@@ -30,6 +30,6 @@ Additional reading resources:
 
 ---
 
-Find the additional resources* at: https://drive.google.com/drive/folders/1dPpr6Onm3BugcON1UaXoqKqbrDbZYL2h?usp=drive_link
+Find the additional resources at: https://drive.google.com/drive/folders/1dPpr6Onm3BugcON1UaXoqKqbrDbZYL2h?usp=drive_link
 
 *Accessible only to the participants during the workshop. So download it if you would like to use it in the future.*
